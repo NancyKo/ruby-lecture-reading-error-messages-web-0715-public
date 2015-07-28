@@ -1,3 +1,6 @@
-42 / 6
+division = 42 / 6
 
-42 / 0
+division_again = 42 / 6
+
+puts division 
+puts division_again
